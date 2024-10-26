@@ -1,9 +1,12 @@
-.header {
+/* .header {
   padding: 20px 0;
-}
+} */
 .nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  /* justify-content: center; */
+  margin-bottom: 20px;
 }
 .nav-logo {
   display: inline-flex;
